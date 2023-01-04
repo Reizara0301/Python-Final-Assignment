@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "api final assesment", "api final assesment\api final assesment.pyproj", "{983A7F39-B9A7-45B8-B18A-BD7263FBAF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983A7F39-B9A7-45B8-B18A-BD7263FBAF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983A7F39-B9A7-45B8-B18A-BD7263FBAF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13809F44-A97C-47D6-A584-C3E111829BBC}
+	EndGlobalSection
+EndGlobal
